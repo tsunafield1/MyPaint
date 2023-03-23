@@ -3,19 +3,19 @@
 
 วิธีใช้งานโปรแกรม คือ ใช้เมาส์ในการวาดสิ่งต้องการลงในโปรแกรม สามารถ save, open, undo, redo, clear, เลือกสี และเลือกความหนาของเส้นได้
 
-![alt text](https://github.com/tsunafield1/MyPaint/blob/main/Example.PNG)
+![alt text](https://github.com/tsunafield1/MyPaint/blob/main/Example.PNG?raw=true)
 
 สามารถเปิดไฟล์ที่บันทึกไว้ได้ที่เมนู File -> Open
 
-![alt text](https://github.com/tsunafield1/MyPaint/blob/main/Example2.PNG)
+![alt text](https://github.com/tsunafield1/MyPaint/blob/main/Example2.PNG?raw=true)
 
 สามารถบันทึกไฟล์ลงไดเรกทอรี่ที่เลือกไว้ได้ที่เมนู File -> Save
 
-![alt text](https://github.com/tsunafield1/MyPaint/blob/main/Example3.PNG)
+![alt text](https://github.com/tsunafield1/MyPaint/blob/main/Example3.PNG?raw=true)
 
 สามารถเปลี่ยนไดเรกทอรี่สำหรับบันทึกไฟล์ได้ที่เมนู File -> Change save directory
 
-![alt text](https://github.com/tsunafield1/MyPaint/blob/main/Example4.PNG)
+![alt text](https://github.com/tsunafield1/MyPaint/blob/main/Example4.PNG?raw=true)
 
 สามารถ undo, redo และ clear ไดที่เมนู Edit
 
@@ -24,7 +24,7 @@
 - สามารถเลือกจากสีพื้นฐานของโปรแกรมได้ที่เมนู Color -> General
 - สามารถเลือกสีอื่นๆ ได้ที่เมนู Color -> Custom
 
-![alt text](https://github.com/tsunafield1/MyPaint/blob/main/Example5.PNG)
+![alt text](https://github.com/tsunafield1/MyPaint/blob/main/Example5.PNG?raw=true)
 
 สามารถเปลี่ยนความหนาของเส้นได้ที่เมนู Size
 
